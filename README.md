@@ -6,11 +6,11 @@
 
 ## Usage
 
-- Thêm file **`FPSDisplay.h` `FPSDisplay.m`** vào project
-- Khai báo **`FPSDisplay.m`** vào makefile
+- Thêm file `FPSDisplay.h` `FPSDisplay.m` vào project
+- Khai báo `FPSDisplay.m` vào makefile
 
 ## Edit
-- Editing these in **`FPSDisplay.m`**
+- Editing these in `FPSDisplay.m`
 
 - Custom tên tuỳ ý `Obj-C`
 ```obj-c
