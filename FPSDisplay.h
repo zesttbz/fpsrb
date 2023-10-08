@@ -1,12 +1,10 @@
 //  FPSDisplay.h
 //  ShadowTrackerExtra
 //
-//Custom by HHNiOS
+//Custom by zest
 //
-//Website: https://hhnios.site
+//Website: https://github.io/zest.tbz
 //
-//  Created by 佚名 on 2020/3/16.
-//  Copyright © 2020 佚名. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
